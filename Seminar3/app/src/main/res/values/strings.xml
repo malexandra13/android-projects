@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seminar3</string>
+    <string name="nume_text">Nume:</string>
+    <string name="prenume_text">Prenume:</string>
+    <string name="varsta">Varsta:</string>
+    <string name="next_activity">Next activity</string>
+</resources>

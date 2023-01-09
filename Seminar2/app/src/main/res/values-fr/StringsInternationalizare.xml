@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+ <string name="app_name">Séminaire2</string>
+ <string name="mesaj_button">PRESSE</string>
+ <string name="mesaj_apasare">Appuyez à nouveau</string>
+ <string name="butonul_apasat">Qui a appuyé</string>
+ <string name="mesaj_plainText">Qui a encore appuyé</string>
+ <string name= "hello_world1" >Bonjour le monde!</string>
+
+</resources>
+

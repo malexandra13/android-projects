@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seminario2</string>
+    <string name="mesaj_button">PRENSA</string>
+    <string name="mesaj_apasare">Presione de nuevo</string>
+    <string name="butonul_apasat">quien presiono</string>
+    <string name="mesaj_plainText">Quien presiono de nuevo</string>
+    <string name= "hello_world1" >Hola Mundo!</string>
+</resources>

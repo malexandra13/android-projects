@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seminar2</string>
+    <string name="mesaj_button">APASA</string>
+    <string name="mesaj_apasare">ApasaDinNou</string>
+    <string name="butonul_apasat">Cine a apasat</string>
+    <string name="mesaj_plainText">Cine a apasat din nou</string>
+    <string name="hello_world1">Hello World!</string>
+</resources>
